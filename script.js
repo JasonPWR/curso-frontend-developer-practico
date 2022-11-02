@@ -44,7 +44,7 @@ const productList = [];
 productList.push({
     name:"Bike",
     price:120,
-    image:"https:images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    image:"https://images.unsplash.com/photo-1596738141905-51e94b519d69?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
 });
 
 productList.push({
